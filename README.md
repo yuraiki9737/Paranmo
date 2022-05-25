@@ -18,12 +18,15 @@ Our project "Paranmo" combines technology from three paths: Mobile Development, 
 Here's our logo
 
 **Logo only:**
+
 ![Logo-only Paranmo](https://github.com/yuraiki9737/Paranmo/blob/main/Logo%201.png?raw=true)
 
 **Logo with brand name:**
+
 ![Logo and Paranmo brandname](https://github.com/yuraiki9737/Paranmo/blob/main/Logo%202.png?raw=true)
 
 **Logo, brand name, and slogan:**
+
  ![Logo, brandname and Paranmo slogan](https://github.com/yuraiki9737/Paranmo/blob/main/Logo%203.png?raw=true)
  
  ## Branch
