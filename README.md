@@ -18,13 +18,13 @@ Our project "Paranmo" combines technology from three paths: Mobile Development, 
 Here's our logo
 
 **Logo only:**
-![Logo-only Paranmo](https://drive.google.com/file/d/1bSCen0Q_tecxJx3XlDR65dTReVxg8BgO/view?usp=sharing)
+![Logo-only Paranmo](https://github.com/yuraiki9737/Paranmo/blob/9de2e33170bb74d934be6ca8517454ef0d0b7053/logo5_13_14491%202.png?raw=true)
 
 **Logo with brand name:**
-![Logo and Paranmo brandname](https://drive.google.com/file/d/1b1ENZ7IywAIqNXQ8DXbx1oCbm2DxQEVM/view?usp=sharing)
+![Logo and Paranmo brandname](https://github.com/yuraiki9737/Paranmo/blob/9de2e33170bb74d934be6ca8517454ef0d0b7053/Component%2015.png?raw=true)
 
 **Logo, brand name, and slogan:**
- ![Logo, brandname and Paranmo slogan](https://drive.google.com/file/d/1tfWz4mjSEAj3XGYXtalAx3x56uyjY86x/view?usp=sharing)
+ ![Logo, brandname and Paranmo slogan](https://github.com/yuraiki9737/Paranmo/blob/9de2e33170bb74d934be6ca8517454ef0d0b7053/logo%20+%20tulisan%20+%20jargon%20fix%20maybe%20(2).png?raw=true)
  
  ## Branch
  
