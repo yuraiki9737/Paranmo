@@ -29,10 +29,29 @@ Here's our logo
 
  ![Logo, brandname and Paranmo slogan](https://github.com/yuraiki9737/Paranmo/blob/main/Logo%203.png?raw=true)
  
-  ## Dataset
- Link Dataset: https://www.kaggle.com/datasets/anefiamutiaraatha/dataset-tanaman-herbal
- 
- Daun Sirih (200)
+## Dataset
+Link Dataset: https://www.kaggle.com/datasets/anefiamutiaraatha/dataset-tanaman-herbal
+
+Daun Jambu Biji (100)
+
+Daun Kari (100)
+
+Daun Kemangi (100)
+
+Daun Kunyit (100)
+
+Daun Mint (100)
+
+Daun Pepaya (100)
+
+Daun Sirih (100)
+
+Daun Sirsak (100)
+
+Lidah Buaya (100)
+
+Teh Hijau (100)
+
  
  ## Branch
  
