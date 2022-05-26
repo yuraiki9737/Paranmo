@@ -32,10 +32,8 @@ Here's our logo
 ## Dataset
 Link Dataset: https://www.kaggle.com/datasets/anefiamutiaraatha/dataset-tanaman-herbal
 
-Daun Jambu Biji (100)
-
-Daun Kari (100)
-
+Daun Jambu Biji (100).
+Daun Kari (100).
 Daun Kemangi (100)
 
 Daun Kunyit (100)
