@@ -31,33 +31,25 @@ Here's our logo
  
 ## Dataset
 Link Dataset: https://www.kaggle.com/datasets/anefiamutiaraatha/dataset-tanaman-herbal
-Daun Jambu Biji (100)
 
-Daun Kari (100)
+1. Daun Jambu Biji (100)
+2. Daun Kari (100)
+3. Daun Kemangi (100)
+4. Daun Kunyit (100)
+5. Daun Mint (100)
+6. Daun Pepaya (100)
+7. Daun Sirih (100)
+8. Lidah Buaya (100)
+9. Daun Sirsak (100)
+10. Teh Hijau (100)
 
-Daun Kemangi (100)
-
-Daun Kunyit (100)
-
-Daun Mint (100)
-
-Daun Pepaya (100)
-
-Daun Sirih (100)
-
-Daun Sirsak (100)
-
-Lidah Buaya (100)
-
-Teh Hijau (100)
-
- ## Branch
+## Branch
  
- **![Mobile Developer](https://github.com/yuraiki9737/Mobile-Developer-Paranmo)**
+**![Mobile Developer](https://github.com/yuraiki9737/Mobile-Developer-Paranmo)**
  
- **![Machine Learning](https://github.com/alfigrace/capstone/tree/machine-learning)**
+**![Machine Learning](https://github.com/alfigrace/capstone/tree/machine-learning)**
  
- **![Cloud Computing](https://github.com/rohfi/api_paranmo)**
+**![Cloud Computing](https://github.com/rohfi/api_paranmo)**
 
 
 
