@@ -29,6 +29,10 @@ Here's our logo
 
  ![Logo, brandname and Paranmo slogan](https://github.com/yuraiki9737/Paranmo/blob/main/Logo%203.png?raw=true)
  
+ ## Dataset
+ Link Dataset: https://www.kaggle.com/datasets/anefiamutiaraatha/dataset-tanaman-herbal
+ Daun Sirih (200)
+ 
  ## Branch
  
  **![Mobile Developer](https://github.com/yuraiki9737/Mobile-Developer-Paranmo)**
