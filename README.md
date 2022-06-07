@@ -30,18 +30,20 @@ Here's our logo
  ![Logo, brandname and Paranmo slogan](https://github.com/yuraiki9737/Paranmo/blob/main/Logo%203.png?raw=true)
  
 ## Dataset
-Link Dataset: https://www.kaggle.com/datasets/anefiamutiaraatha/dataset-tanaman-herbal
+Link Dataset: 
+- https://www.kaggle.com/datasets/anefiamutiaraatha/dataset-tanaman-herbal
+- https://drive.google.com/drive/folders/1sKbjP0QpJkjEVmW8y695nc3_nrZ-YF44
 
-1. Daun Jambu Biji (100)
-2. Daun Kari (100)
-3. Daun Kemangi (100)
-4. Daun Kunyit (100)
-5. Daun Mint (100)
-6. Daun Pepaya (100)
-7. Daun Sirih (100)
-8. Lidah Buaya (100)
-9. Daun Sirsak (100)
-10. Teh Hijau (100)
+1. Daun Jambu Biji (130)
+2. Daun Kari (130)
+3. Daun Kemangi (130)
+4. Daun Kunyit (136)
+5. Daun Mint (123)
+6. Daun Pepaya (133)
+7. Daun Sirih (130)
+8. Lidah Buaya (136)
+9. Daun Sirsak (130)
+10. Teh Hijau (122)
 
 ## Branch
  
