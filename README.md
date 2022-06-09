@@ -31,8 +31,8 @@ Here's our logo
  
 ## Dataset
 Link Dataset: 
-- https://www.kaggle.com/datasets/anefiamutiaraatha/dataset-tanaman-herbal
-- https://drive.google.com/drive/folders/1sKbjP0QpJkjEVmW8y695nc3_nrZ-YF44
+- [Dataset](https://www.kaggle.com/datasets/anefiamutiaraatha/dataset-tanaman-herbal)
+- [Dataset](https://drive.google.com/drive/folders/1sKbjP0QpJkjEVmW8y695nc3_nrZ-YF44)
 
 1. Daun Jambu Biji (130)
 2. Daun Kari (130)
